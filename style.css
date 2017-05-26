@@ -1,0 +1,118 @@
+header {
+	padding: 20px;
+	font-size: 100%;
+	position: relative;
+	overflow: auto;
+}
+
+nav {
+	float: right;
+	display: inline-block;
+	position: relative;
+}
+
+span {
+	margin-right: 15px;
+	margin-bottom: 20px;
+	position: relative;
+}
+
+main {
+	clear: both;
+}
+
+input {
+	width: 535px;
+	position: relative;
+	bottom: 7px;
+	margin-left: 15px;
+	display: inline-block;
+}
+
+footer {
+	position: fixed;
+	width: 100%;
+	padding: 15px;
+	bottom: 0px;
+}
+
+a {
+	padding: 10px;
+}
+
+
+button {
+
+}
+
+.navLinks {
+	position: relative;
+	bottom: 12px;
+}
+
+.topSpacer {
+	height: 200px;
+}
+
+.logoRow {
+
+}
+
+.searchRow {
+
+}
+
+.shadowWrapper {
+		width: 600px;
+		margin: auto;
+}
+
+.searchWrapper {
+	width: 600px;
+	overflow: auto;
+	margin: auto;
+	margin-top: 50px;
+	position: relative;
+}
+
+.buttonRow {
+
+}
+
+.button {
+
+}
+
+.buttonRight {
+	float: right;
+}
+
+
+.buttonWrap {
+	margin: auto;
+	padding: 30px;
+	width: 265px;
+}
+
+.bottomSpacer {
+
+}
+
+.leftFooter {
+
+}
+
+.rightFooter {
+	position: absolute;
+	right: 35px;
+}
+
+#logo {
+	margin: auto;
+	display: block;
+}
+
+#mic {
+	display: inline-block;
+	margin-top: 12px;
+}
